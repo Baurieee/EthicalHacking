@@ -12,7 +12,9 @@ This repository contains writeups created during the **Ethical Hacking** course.
   - expected results / observations
   - short notes (impact, common mistakes, defensive takeaway)
 - `detection/`  
-  Contains Markdown writeups for hands-on labs from **Ethical Hacking** course from the **Cyberprotection systems** course perspective. 
+  Contains Markdown writeups for hands-on labs from **Ethical Hacking** course from the **Cyberprotection systems** course perspective. Also contains memory files from **Cyberprotection systems** course for _Wazuh_ labs.
+- `tools/`  
+  Contains Markdown writeups tools used in writeup labs and additional ones.
 
 ## Disclaimer
 These notes are for **educational purposes** only. 😊😊😊
